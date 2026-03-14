@@ -1,4 +1,6 @@
-# Installation
+---
+title: Installation
+---
 
 LibreQ uses Docker-based components for local testing and deployment.
 
