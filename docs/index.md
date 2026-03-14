@@ -4,8 +4,6 @@ LibreQ is an open-source system for managing, indexing, previewing, and publishi
 
 It combines a public-facing question pool with a technical backend for question rendering, metadata management, topic trees, screenshot generation, and Moodle-based question authoring.
 
----
-
 ## Overview
 
 LibreQ currently consists of the following main components:
@@ -24,8 +22,6 @@ LibreQ currently consists of the following main components:
 
 - **Preview Renderer**  
   Automated screenshot generation using Node.js and Puppeteer
-
----
 
 ## Architecture
 
