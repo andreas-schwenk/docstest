@@ -56,3 +56,7 @@ LibreQ currently consists of the following main components:
                     +--------------------+
 ```
 
+## Installation
+
+[Installation](installation)
+
